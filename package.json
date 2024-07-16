@@ -6,7 +6,8 @@
     "build": "parcel build"
   },
   "dependencies": {
-    "leaflet": "^1.9.4"
+    "leaflet": "^1.9.4",
+    "parcel": "^2.0.0-canary.1679"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
