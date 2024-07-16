@@ -1,6 +1,4 @@
-console.log("Hello World");
 import Leaflet from "leaflet"; // import everything from leaflet
-console.log(Leaflet);
 import "leaflet/dist/leaflet.css"; // import leaflet css
 
 const WBS = [52.457131, 13.54007]; // WBS coordinates
